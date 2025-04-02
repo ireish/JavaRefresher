@@ -31,7 +31,7 @@ public class Main {
         //                    - Static binding, Compile-time Polymorphism
 
         // Method Overriding - Subclass has EXACT same method as Parent Class;
-        //                   - Dynamic Binding, Run-time polymorphism;
+        //                   - Dynamic Binding, Run-time Polymorphism;
 
         // Static Methods - Method is associated with a Class, rather than an Object; Can be called with ClassName.method() instead of Obj.method()
         //                - Cannot access non-static instance variables and methods within that class;
